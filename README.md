@@ -13,7 +13,7 @@
 ---
 
 ## 🧠 About Me
-Backend-first engineer focused on **system correctness, performance, and long-term maintainability**.
+Backend engineer focused on **system correctness, performance, and long-term maintainability**.
 
 - Python specialist (Django, FastAPI)
 - Strong with APIs, async flows
@@ -64,7 +64,7 @@ Backend-first engineer focused on **system correctness, performance, and long-te
 
 ## 🧩 Featured Systems
 
-### 🔹 AcroCare — AI Mental Health Chatbot
+### 🔹 AcroCare - AI Mental Health Chatbot
 **Problem:** Need structured, accessible mental-health support.
 
 - Stack: Django, Python, NLP
